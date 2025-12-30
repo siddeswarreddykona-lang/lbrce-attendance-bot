@@ -16,6 +16,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_NAME = os.getenv("GITHUB_REPOSITORY")
+
 STORED_ATTENDANCE_FILE = "stored_attendance.json"
 
 def setup_driver():
@@ -193,7 +194,7 @@ def main():
         
         for subject in current_attendance:
             icon = get_attendance_icon(subject['percentage'])
-            message += f"{icon} *{subject['subject']}*\n `{subject['present']}/{subject['held']}` | {subject['percentage']}\n\n"
+            message += f"{icon} *{subject['subject']}*\n  `{subject['present']}/{subject['held']}` | {subject['percentage']}\n\n"
         
         message += f"{'='*50}\n"
         
@@ -204,9 +205,9 @@ def main():
                 for absence in absences:
                     emoji = "🔴" if absence['type'] == 'corrected_absent' else "⚠️"
                     message += f"{emoji} *{absence['subject']}*\n"
-                    message += f" Before: `{absence['before_present']}/{absence['before_held']}`\n"
-                    message += f" Now: `{absence['now_present']}/{absence['now_held']}`\n"
-                    message += f" *MISSED: {absence['classes_missed']} class(es)*\n\n"
+                    message += f"   Before: `{absence['before_present']}/{absence['before_held']}`\n"
+                    message += f"   Now: `{absence['now_present']}/{absence['now_held']}`\n"
+                    message += f"   *MISSED: {absence['classes_missed']} class(es)*\n\n"
             else:
                 message += "✅ *NO NEW ABSENCES* - All good!\n"
         else:
