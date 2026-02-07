@@ -31,9 +31,9 @@
     {
       "sno": "5",
       "subject": "Software Project Management",
-      "held": 21,
-      "present": 17,
-      "percentage": "81.0%"
+      "held": 22,
+      "present": 18,
+      "percentage": "81.8%"
     },
     {
       "sno": "6",
@@ -85,6 +85,6 @@
       "percentage": "66.7%"
     }
   ],
-  "overall_percentage": "85.41 %",
-  "timestamp": "06/02/2026 11:09"
+  "overall_percentage": "85.47 %",
+  "timestamp": "07/02/2026 03:41"
 }
