@@ -31,16 +31,16 @@
     {
       "sno": "5",
       "subject": "Software Project Management",
-      "held": 26,
-      "present": 22,
-      "percentage": "84.6%"
+      "held": 27,
+      "present": 23,
+      "percentage": "85.2%"
     },
     {
       "sno": "6",
       "subject": "Disaster Management",
-      "held": 33,
-      "present": 31,
-      "percentage": "93.9%"
+      "held": 34,
+      "present": 32,
+      "percentage": "94.1%"
     },
     {
       "sno": "7",
@@ -80,11 +80,11 @@
     {
       "sno": "12",
       "subject": "Technical Training",
-      "held": 21,
-      "present": 15,
-      "percentage": "71.4%"
+      "held": 24,
+      "present": 18,
+      "percentage": "75.0%"
     }
   ],
-  "overall_percentage": "84.42 %",
-  "timestamp": "18/02/2026 04:01"
+  "overall_percentage": "84.7 %",
+  "timestamp": "18/02/2026 11:23"
 }
