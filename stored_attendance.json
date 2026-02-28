@@ -1,90 +1,90 @@
 {
   "subjects": [
     {
-      "sno": "12",
+      "sno": "1",
       "subject": "Compiler Design",
-      "held": 41,
-      "present": 32,
-      "percentage": "78.0%"
+      "held": 42,
+      "present": 33,
+      "percentage": "78.6%"
     },
     {
-      "sno": "13",
+      "sno": "2",
       "subject": "Cloud Computing",
       "held": 15,
       "present": 12,
       "percentage": "80.0%"
     },
     {
-      "sno": "14",
+      "sno": "3",
       "subject": "Cryptography & Network Security",
-      "held": 40,
-      "present": 34,
-      "percentage": "85.0%"
+      "held": 41,
+      "present": 35,
+      "percentage": "85.4%"
     },
     {
-      "sno": "15",
+      "sno": "4",
       "subject": "Machine Learning",
       "held": 31,
       "present": 24,
       "percentage": "77.4%"
     },
     {
-      "sno": "16",
+      "sno": "5",
       "subject": "Software Project Management",
       "held": 31,
       "present": 26,
       "percentage": "83.9%"
     },
     {
-      "sno": "17",
+      "sno": "6",
       "subject": "Disaster Management",
-      "held": 37,
-      "present": 35,
-      "percentage": "94.6%"
+      "held": 38,
+      "present": 36,
+      "percentage": "94.7%"
     },
     {
-      "sno": "18",
+      "sno": "7",
       "subject": "Cloud Computing Lab",
       "held": 15,
       "present": 15,
       "percentage": "100.0%"
     },
     {
-      "sno": "19",
+      "sno": "8",
       "subject": "Cryptography & Network Security Lab",
       "held": 30,
       "present": 21,
       "percentage": "70.0%"
     },
     {
-      "sno": "20",
+      "sno": "9",
       "subject": "Soft Skills",
       "held": 24,
       "present": 15,
       "percentage": "62.5%"
     },
     {
-      "sno": "21",
+      "sno": "10",
       "subject": "Technical Paper Writing & IPR",
       "held": 20,
       "present": 15,
       "percentage": "75.0%"
     },
     {
-      "sno": "22",
+      "sno": "11",
       "subject": "ASSOCIATION",
-      "held": 10,
-      "present": 10,
+      "held": 11,
+      "present": 11,
       "percentage": "100.0%"
     },
     {
-      "sno": "23",
+      "sno": "12",
       "subject": "Technical Training",
       "held": 27,
       "present": 21,
       "percentage": "77.8%"
     }
   ],
-  "overall_percentage": "81.64 %",
-  "timestamp": "28/02/2026 03:28"
+  "overall_percentage": "81.23 %",
+  "timestamp": "28/02/2026 10:49"
 }
