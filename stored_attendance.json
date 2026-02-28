@@ -1,90 +1,90 @@
 {
   "subjects": [
     {
-      "sno": "1",
+      "sno": "12",
       "subject": "Compiler Design",
       "held": 41,
       "present": 32,
       "percentage": "78.0%"
     },
     {
-      "sno": "2",
+      "sno": "13",
       "subject": "Cloud Computing",
       "held": 15,
       "present": 12,
       "percentage": "80.0%"
     },
     {
-      "sno": "3",
+      "sno": "14",
       "subject": "Cryptography & Network Security",
       "held": 40,
       "present": 34,
       "percentage": "85.0%"
     },
     {
-      "sno": "4",
+      "sno": "15",
       "subject": "Machine Learning",
-      "held": 30,
-      "present": 23,
-      "percentage": "76.7%"
+      "held": 31,
+      "present": 24,
+      "percentage": "77.4%"
     },
     {
-      "sno": "5",
+      "sno": "16",
       "subject": "Software Project Management",
       "held": 31,
       "present": 26,
       "percentage": "83.9%"
     },
     {
-      "sno": "6",
+      "sno": "17",
       "subject": "Disaster Management",
       "held": 37,
       "present": 35,
       "percentage": "94.6%"
     },
     {
-      "sno": "7",
+      "sno": "18",
       "subject": "Cloud Computing Lab",
       "held": 15,
       "present": 15,
       "percentage": "100.0%"
     },
     {
-      "sno": "8",
+      "sno": "19",
       "subject": "Cryptography & Network Security Lab",
       "held": 30,
       "present": 21,
       "percentage": "70.0%"
     },
     {
-      "sno": "9",
+      "sno": "20",
       "subject": "Soft Skills",
       "held": 24,
       "present": 15,
       "percentage": "62.5%"
     },
     {
-      "sno": "10",
+      "sno": "21",
       "subject": "Technical Paper Writing & IPR",
       "held": 20,
       "present": 15,
       "percentage": "75.0%"
     },
     {
-      "sno": "11",
+      "sno": "22",
       "subject": "ASSOCIATION",
       "held": 10,
       "present": 10,
       "percentage": "100.0%"
     },
     {
-      "sno": "12",
+      "sno": "23",
       "subject": "Technical Training",
       "held": 27,
       "present": 21,
       "percentage": "77.8%"
     }
   ],
-  "overall_percentage": "80.94 %",
-  "timestamp": "27/02/2026 11:07"
+  "overall_percentage": "81.64 %",
+  "timestamp": "28/02/2026 03:28"
 }
