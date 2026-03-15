@@ -73,8 +73,8 @@
     {
       "sno": "11",
       "subject": "ASSOCIATION",
-      "held": 12,
-      "present": 12,
+      "held": 13,
+      "present": 13,
       "percentage": "100.0%"
     },
     {
@@ -85,6 +85,6 @@
       "percentage": "81.8%"
     }
   ],
-  "overall_percentage": "82.66 %",
-  "timestamp": "14/03/2026 10:56"
+  "overall_percentage": "82.7 %",
+  "timestamp": "15/03/2026 04:14"
 }
