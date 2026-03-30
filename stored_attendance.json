@@ -24,9 +24,9 @@
     {
       "sno": "4",
       "subject": "Machine Learning",
-      "held": 40,
-      "present": 32,
-      "percentage": "80.0%"
+      "held": 41,
+      "present": 33,
+      "percentage": "80.5%"
     },
     {
       "sno": "5",
@@ -38,9 +38,9 @@
     {
       "sno": "6",
       "subject": "Disaster Management",
-      "held": 49,
-      "present": 45,
-      "percentage": "91.8%"
+      "held": 50,
+      "present": 46,
+      "percentage": "92.0%"
     },
     {
       "sno": "7",
@@ -85,6 +85,6 @@
       "percentage": "84.6%"
     }
   ],
-  "overall_percentage": "83.12 %",
-  "timestamp": "30/03/2026 04:25"
+  "overall_percentage": "83.2 %",
+  "timestamp": "30/03/2026 11:35"
 }
