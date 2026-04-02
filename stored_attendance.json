@@ -10,16 +10,16 @@
     {
       "sno": "2",
       "subject": "Cloud Computing",
-      "held": 48,
-      "present": 40,
-      "percentage": "83.3%"
+      "held": 50,
+      "present": 42,
+      "percentage": "84.0%"
     },
     {
       "sno": "3",
       "subject": "Cryptography & Network Security",
-      "held": 56,
-      "present": 48,
-      "percentage": "85.7%"
+      "held": 57,
+      "present": 49,
+      "percentage": "86.0%"
     },
     {
       "sno": "4",
@@ -31,9 +31,9 @@
     {
       "sno": "5",
       "subject": "Software Project Management",
-      "held": 41,
+      "held": 42,
       "present": 34,
-      "percentage": "82.9%"
+      "percentage": "81.0%"
     },
     {
       "sno": "6",
@@ -45,8 +45,8 @@
     {
       "sno": "7",
       "subject": "Cloud Computing Lab",
-      "held": 39,
-      "present": 39,
+      "held": 42,
+      "present": 42,
       "percentage": "100.0%"
     },
     {
@@ -85,6 +85,6 @@
       "percentage": "85.7%"
     }
   ],
-  "overall_percentage": "83.2 %",
-  "timestamp": "01/04/2026 11:30"
+  "overall_percentage": "83.23 %",
+  "timestamp": "02/04/2026 04:08"
 }
