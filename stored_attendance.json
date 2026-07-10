@@ -38,8 +38,8 @@
     {
       "sno": "6",
       "subject": "Prompt Engineering",
-      "held": 6,
-      "present": 6,
+      "held": 8,
+      "present": 8,
       "percentage": "100.0%"
     },
     {
@@ -79,5 +79,5 @@
     }
   ],
   "overall_percentage": "100 %",
-  "timestamp": "09/07/2026 13:33"
+  "timestamp": "10/07/2026 05:34"
 }
