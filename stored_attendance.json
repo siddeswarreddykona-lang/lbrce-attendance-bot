@@ -10,30 +10,30 @@
     {
       "sno": "2",
       "subject": "Human Resources & Project Management",
-      "held": 10,
-      "present": 10,
+      "held": 11,
+      "present": 11,
       "percentage": "100.0%"
     },
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 16,
-      "present": 14,
-      "percentage": "87.5%"
+      "held": 17,
+      "present": 15,
+      "percentage": "88.2%"
     },
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 18,
-      "present": 17,
-      "percentage": "94.4%"
+      "held": 19,
+      "present": 18,
+      "percentage": "94.7%"
     },
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 14,
-      "present": 12,
-      "percentage": "85.7%"
+      "held": 15,
+      "present": 13,
+      "percentage": "86.7%"
     },
     {
       "sno": "6",
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "91.94 %",
-  "timestamp": "24/07/2026 12:03"
+  "overall_percentage": "92.19 %",
+  "timestamp": "25/07/2026 11:45"
 }
