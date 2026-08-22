@@ -17,23 +17,23 @@
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 34,
-      "present": 27,
-      "percentage": "79.4%"
+      "held": 35,
+      "present": 28,
+      "percentage": "80.0%"
     },
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 37,
-      "present": 32,
-      "percentage": "86.5%"
+      "held": 38,
+      "present": 33,
+      "percentage": "86.8%"
     },
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 28,
-      "present": 23,
-      "percentage": "82.1%"
+      "held": 29,
+      "present": 24,
+      "percentage": "82.8%"
     },
     {
       "sno": "6",
@@ -73,11 +73,11 @@
     {
       "sno": "11",
       "subject": "ASSOCIATION",
-      "held": 10,
-      "present": 10,
+      "held": 12,
+      "present": 12,
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "83.07 %",
-  "timestamp": "22/08/2026 02:34"
+  "overall_percentage": "83.4 %",
+  "timestamp": "22/08/2026 10:51"
 }
