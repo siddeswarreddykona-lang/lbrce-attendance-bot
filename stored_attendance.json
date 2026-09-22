@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 45,
-      "present": 33,
-      "percentage": "73.3%"
+      "held": 46,
+      "present": 34,
+      "percentage": "73.9%"
     },
     {
       "sno": "2",
@@ -17,9 +17,9 @@
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 47,
+      "held": 48,
       "present": 39,
-      "percentage": "83.0%"
+      "percentage": "81.3%"
     },
     {
       "sno": "4",
@@ -45,9 +45,9 @@
     {
       "sno": "7",
       "subject": "Constitution of India",
-      "held": 23,
-      "present": 17,
-      "percentage": "73.9%"
+      "held": 24,
+      "present": 18,
+      "percentage": "75.0%"
     },
     {
       "sno": "8",
@@ -66,9 +66,9 @@
     {
       "sno": "10",
       "subject": "SELF LEARNING",
-      "held": 12,
-      "present": 9,
-      "percentage": "75.0%"
+      "held": 13,
+      "present": 10,
+      "percentage": "76.9%"
     },
     {
       "sno": "11",
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "82.52 %",
-  "timestamp": "22/09/2026 06:34"
+  "overall_percentage": "82.44 %",
+  "timestamp": "22/09/2026 15:08"
 }
