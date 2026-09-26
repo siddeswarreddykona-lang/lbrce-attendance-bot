@@ -17,9 +17,9 @@
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 50,
-      "present": 41,
-      "percentage": "82.0%"
+      "held": 51,
+      "present": 42,
+      "percentage": "82.4%"
     },
     {
       "sno": "4",
@@ -52,9 +52,9 @@
     {
       "sno": "8",
       "subject": "Evaluation of Industry Internship /Mini Project",
-      "held": 16,
-      "present": 14,
-      "percentage": "87.5%"
+      "held": 18,
+      "present": 16,
+      "percentage": "88.9%"
     },
     {
       "sno": "9",
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "83.2 %",
-  "timestamp": "25/09/2026 15:27"
+  "overall_percentage": "83.33 %",
+  "timestamp": "26/09/2026 06:25"
 }
