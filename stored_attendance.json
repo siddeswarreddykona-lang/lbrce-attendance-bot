@@ -24,9 +24,9 @@
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 57,
-      "present": 48,
-      "percentage": "84.2%"
+      "held": 58,
+      "present": 49,
+      "percentage": "84.5%"
     },
     {
       "sno": "5",
@@ -59,9 +59,9 @@
     {
       "sno": "9",
       "subject": "Technical Training",
-      "held": 36,
-      "present": 30,
-      "percentage": "83.3%"
+      "held": 39,
+      "present": 33,
+      "percentage": "84.6%"
     },
     {
       "sno": "10",
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "84.14 %",
-  "timestamp": "30/09/2026 07:06"
+  "overall_percentage": "84.3 %",
+  "timestamp": "30/09/2026 16:29"
 }
