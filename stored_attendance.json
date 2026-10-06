@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 54,
-      "present": 42,
-      "percentage": "77.8%"
+      "held": 55,
+      "present": 43,
+      "percentage": "78.2%"
     },
     {
       "sno": "2",
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "84.99 %",
-  "timestamp": "05/10/2026 19:23"
+  "overall_percentage": "85.02 %",
+  "timestamp": "06/10/2026 07:53"
 }
