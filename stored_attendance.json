@@ -31,9 +31,9 @@
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 48,
-      "present": 41,
-      "percentage": "85.4%"
+      "held": 49,
+      "present": 42,
+      "percentage": "85.7%"
     },
     {
       "sno": "6",
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "84.69 %",
-  "timestamp": "08/10/2026 17:33"
+  "overall_percentage": "84.72 %",
+  "timestamp": "09/10/2026 07:45"
 }
