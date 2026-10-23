@@ -1,83 +1,83 @@
 {
   "subjects": [
     {
-      "sno": "1",
+      "sno": "13",
       "subject": "Deep Learning",
       "held": 63,
       "present": 48,
       "percentage": "76.2%"
     },
     {
-      "sno": "2",
+      "sno": "14",
       "subject": "Human Resources & Project Management",
       "held": 35,
       "present": 31,
       "percentage": "88.6%"
     },
     {
-      "sno": "3",
+      "sno": "15",
       "subject": "Devops",
-      "held": 62,
-      "present": 52,
-      "percentage": "83.9%"
+      "held": 63,
+      "present": 53,
+      "percentage": "84.1%"
     },
     {
-      "sno": "4",
+      "sno": "16",
       "subject": "Generative AI",
       "held": 68,
       "present": 57,
       "percentage": "83.8%"
     },
     {
-      "sno": "5",
+      "sno": "17",
       "subject": "Utilization of Electrical Energy",
       "held": 52,
       "present": 43,
       "percentage": "82.7%"
     },
     {
-      "sno": "6",
+      "sno": "18",
       "subject": "Prompt Engineering",
       "held": 56,
       "present": 50,
       "percentage": "89.3%"
     },
     {
-      "sno": "7",
+      "sno": "19",
       "subject": "Constitution of India",
       "held": 31,
       "present": 23,
       "percentage": "74.2%"
     },
     {
-      "sno": "8",
+      "sno": "20",
       "subject": "Evaluation of Industry Internship /Mini Project",
       "held": 20,
       "present": 18,
       "percentage": "90.0%"
     },
     {
-      "sno": "9",
+      "sno": "21",
       "subject": "Technical Training",
       "held": 45,
       "present": 36,
       "percentage": "80.0%"
     },
     {
-      "sno": "10",
+      "sno": "22",
       "subject": "SELF LEARNING",
       "held": 16,
       "present": 13,
       "percentage": "81.3%"
     },
     {
-      "sno": "11",
+      "sno": "23",
       "subject": "ASSOCIATION",
       "held": 22,
       "present": 22,
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "83.62 %",
-  "timestamp": "22/10/2026 15:30"
+  "overall_percentage": "81.08 %",
+  "timestamp": "23/10/2026 06:18"
 }
