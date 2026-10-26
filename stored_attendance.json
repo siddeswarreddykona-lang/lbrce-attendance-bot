@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 63,
-      "present": 48,
-      "percentage": "76.2%"
+      "held": 64,
+      "present": 49,
+      "percentage": "76.6%"
     },
     {
       "sno": "2",
@@ -17,16 +17,16 @@
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 65,
+      "held": 66,
       "present": 53,
-      "percentage": "81.5%"
+      "percentage": "80.3%"
     },
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 70,
-      "present": 57,
-      "percentage": "81.4%"
+      "held": 71,
+      "present": 58,
+      "percentage": "81.7%"
     },
     {
       "sno": "5",
@@ -78,6 +78,6 @@
       "percentage": "91.7%"
     }
   ],
-  "overall_percentage": "81.99 %",
-  "timestamp": "26/10/2026 06:42"
+  "overall_percentage": "81.89 %",
+  "timestamp": "26/10/2026 16:53"
 }
